@@ -5,3 +5,5 @@ vim-themis
 .mypy_cache
 .pytest_cache
 tags
+# ignore commit message
+.gitcommit
